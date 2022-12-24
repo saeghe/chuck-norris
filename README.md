@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This package is calls the `https://api.chucknorris.io/` and returns the result in the console.
+This package calls the `https://api.chucknorris.io/` and returns the result in the console.
 
 This is a sample package for using in the [Saeghe](https://saeghe.com)'s `run` command.
 
